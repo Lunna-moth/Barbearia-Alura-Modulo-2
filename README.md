@@ -1,2 +1,3 @@
 # Barbearia-Alura
-Fron end de um site fictio, da barbearia alura. Final do primeiro modulo da alura
+Fron end de um site fictio, da barbearia alura.
+Adicionamente + uma pagina de produtos conectada a pagina principal do primeiro modulo
