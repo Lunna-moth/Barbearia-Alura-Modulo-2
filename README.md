@@ -1,2 +1,2 @@
-# Barbearia-Alura-Modulo-2
-codificar pagina de produtos e conectar ela com a pagina principal
+# Barbearia-Alura
+Fron end de um site fictio, da barbearia alura. Final do primeiro modulo da alura
